@@ -1,0 +1,48 @@
+@media screen and (max-width:1200px){
+	 .hero-text-div{
+ 	width:100%;
+ 	padding:0 2%;
+ }
+ .row{
+ 	padding: 0 10%;
+ }
+
+}
+/*small tablet to big tablet*/
+@media screen and (max-width:1023px){
+body{font-size: 18px;}
+section{padding:60px 0;}
+.long-para {
+    line-height: 145%;
+    width: 80%;
+    margin-left: 0 2 0%;
+    }
+    .row{
+    	padding: 0 10%;
+    }
+    .step-box{margin-top:10px;}
+    .work-step{margin-bottom: 40px;}
+    .work-step:last-of-type{
+    	margin-bottom:60px;
+    }
+    .app-screen{
+    	width:100%;
+    }
+    .icon-small{
+    	width:17px;
+    	margin-right:5px;
+    }
+    .city-features{
+    	font-size:90%;
+    }
+    .plan-box{width:100%;
+    	margin-left:0%;}
+}
+/*small phones to small tablets*/
+@media screen and(max-width:768px){
+
+}
+/*smart fones from 0 to480px*/
+@media screen and(max-width:480px){
+
+}
